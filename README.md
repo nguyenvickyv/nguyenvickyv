@@ -22,3 +22,4 @@ I am an **aspiring UI/UX Designer and Developer** (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 ## Where to find me
 <a href="https://www.linkedin.com/in/vickyvietnguyen"/> <img src="https://github.com/user-attachments/assets/edbfcd27-cd60-4a03-813b-ae26f4c9477b" width="50"> </a>
 <a href="https://github.com/nguyenvickyv"/> <img src="https://github.com/user-attachments/assets/49d5b515-5f6a-44f5-92f4-44025886ca19" width="50"> </a>
+<a href="mailto:vickynguyenworks@gmail.com"> <img src="https://github.com/user-attachments/assets/cd282cd8-a50f-4ebc-be8b-44c4decf0899" width="50"> </a>
