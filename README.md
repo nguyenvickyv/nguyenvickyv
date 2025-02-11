@@ -2,8 +2,9 @@
 
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" width="500"/>
 
-Hey there, nice to meet you! My name is Vicky and I am a recent graduate at the University of Houston!\
-I am an aspiring UI/UX Designer and Developer (˶˃ ᵕ ˂˶) .ᐟ.ᐟ  
+Hey there, nice to meet you!  
+**My name is Vicky**, and I’m a recent graduate from the **University of Houston** with a degree in Computer Science!  
+I am an **aspiring UI/UX Designer and Developer** (˶˃ ᵕ ˂˶) .ᐟ.ᐟ  
   
 <a href="https://vickynguyens.com"> <img src="https://github.com/user-attachments/assets/85c43d04-442d-4083-93a2-c0b1793afa3b" width=300> </a>
 
